@@ -1,0 +1,27 @@
+body{
+    padding: 100px; 
+}
+.submit{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding:50px;
+    margin-top:51px;
+}
+#second-area{
+    display: none;
+}
+.deposite{
+    background-color: tomato;
+}
+.withdraw{
+    background-color: turquoise;
+}
+.balance{
+    background-color: blue;
+}
+.common{
+    color:white;
+    padding: 50px 30px;
+    margin: 0 30px;
+    border-radius: 10px;
+}
